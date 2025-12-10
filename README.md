@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I bridge the gap between the logical world of prog
 
 ## 🛠️ Tech Stack & Tools
 
-I experiment with engines, combining code with art:
-
 ### Engines & Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

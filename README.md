@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Mateusz Gozdek
+# Hi, I'm Mateusz
 
-### 👨‍💻 Aspiring Game Developer & Digital Artist
+### Aspiring Game Developer & Digital Artist
 
-Welcome to my GitHub profile! I bridge the gap between the logical world of programming and the creative world of graphics. I'm exploring various technologies to find my specific path in the industry while constantly refining my artistic skills.
+I bridge the gap between the logical world of programming and the creative world of my mind. I'm exploring various technologies to find my specific path in the industry while constantly refining my artistic and programming skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Currently working on:** My own *fighting game* (Engineering Thesis).
-- 🧠 **Learning:** Advanced **Unreal Engine** features and **Game Design** principles.
-- 🎨 **Beyond coding:** Developing my artistic skills in traditional drawing and digital art.
-- 💼 **Goal:** Seeking collaboration or an entry-level position to gain commercial experience.
+- **Currently working on:** Game jam contest game.
+- **Learning:** I am diving into the **Unreal Engine** from the scripting side in C++.
+- **Beyond coding:** Developing my artistic skills in **digital and concept art and 3D modeling**.
+- **Goal:** Seeking collaboration or an entry-level position to gain experience as a **programmer** or **QA tester**.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I bridge the gap between the logical world of prog
 ### Graphics & Design
 ![Krita](https://img.shields.io/badge/krita-%23333333.svg?style=for-the-badge&logo=krita&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
@@ -37,7 +38,7 @@ Here you'll find a diverse mix of my experiments ranging from 2D and 3D games to
 
 Interested in collaboration or want to chat about gamedev? Feel free to reach out!
 
-* 📧 **Email:** [gozdeusz@gmail.com](mailto:gozdeusz@gmail.com)
+* **Email:** [gozdeusz@gmail.com](mailto:gozdeusz@gmail.com)
 
 ---
 <div align="center">

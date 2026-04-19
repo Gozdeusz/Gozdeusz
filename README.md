@@ -8,7 +8,7 @@ I bridge the gap between the logical world of programming and the creative world
 
 ## 🚀 About Me
 
-- **Currently working on:** Game jam contest game.
+- **Currently working on:** expands the Beast Market game.
 - **Learning:** I am diving into the **Unreal Engine** from the scripting side in C++.
 - **Beyond coding:** Developing my artistic skills in **digital and concept art and 3D modeling**.
 - **Goal:** Seeking collaboration or an entry-level position to gain experience as a **programmer** or **QA tester**.
